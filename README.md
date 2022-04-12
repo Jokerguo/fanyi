@@ -1,6 +1,13 @@
 ## fanyi-g
 
-1. 发布到npm 下载的人都在使用我都appId
+1. 已发布npm
+```
+yarn add fanyi-g
+
+//使用
+fy apple
+// 苹果
+```
 
 2. 本机自己运行
 
